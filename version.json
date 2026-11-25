@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/StiveLamatta/app-music-releases/releases/download/v1.2.0/AppMusic-arm64.apk",
-  "sha256": "dc55d2cab48f4ad71d9036528d566c6e4ff2dd27b50357e111a1f93d1fc25a7b",
-  "changelog": "Descargas del mismo audio que ya se reproduce, con progreso en la canción, el reproductor y la notificación. Letra cuando está disponible. Inicio con saludo, accesos rápidos y más estantes. Actualizaciones dentro de la app."
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/StiveLamatta/app-music-releases/releases/download/v1.3.0/AppMusic-arm64.apk",
+  "sha256": "77e44c397ac8ea65804d323650b5c82194a3ac0a837f0228be39300d832176c9",
+  "changelog": "Nuevo ícono"
 }
